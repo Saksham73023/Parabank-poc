@@ -1,0 +1,14 @@
+{
+  "validCustomer": {
+    "firstName": "John",
+    "lastName": "Smith",
+    "address": "123 Main St",
+    "city": "Austin",
+    "state": "TX",
+    "zipCode": "78701",
+    "phone": "5551234567",
+    "ssn": "123-45-6789",
+    "username": "johnsmith123",
+    "password": "Password@123"
+  }
+}
