@@ -1,4 +1,15 @@
+# Dependencies
 node_modules/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Playwright output
 playwright-report/
 test-results/
-.env
+blob-report/
+
+# Local editor files
+.vscode/
